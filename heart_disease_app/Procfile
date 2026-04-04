@@ -1,0 +1,2 @@
+# Procfile — used by Render / Railway / Heroku
+web: gunicorn app:app
